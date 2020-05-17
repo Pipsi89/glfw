@@ -7,6 +7,7 @@ project "GLFW"
 
 	files
 	{
+		--test1
 		"include/GLFW/glfw3.h",
 		"include/GLFW/glfw3native.h",
 		"src/glfw_config.h",
